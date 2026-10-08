@@ -1,0 +1,14 @@
+{
+  "name": "101581203_comp3123_labtest1",
+  "version": "1.0.0",
+  "description": "COMP3123 Lab Test 1 - ES6, Promises, and Node.js File Module",
+  "main": "index.js",
+  "scripts": {
+    "q1": "node question1/lowerCaseWords.js",
+    "q2": "node question2/promises.js",
+    "q3:add": "node question3/add.js",
+    "q3:remove": "node question3/remove.js"
+  },
+  "author": "Felipe da Rocha Vieira Mattos - 101581203",
+  "license": "ISC"
+}
